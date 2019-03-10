@@ -6,4 +6,3 @@ class Hash
   
 end
 
-bining.pry
