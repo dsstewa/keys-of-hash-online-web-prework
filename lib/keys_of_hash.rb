@@ -5,3 +5,5 @@ class Hash
    binding.pry
   end
 end
+
+bining.pry
